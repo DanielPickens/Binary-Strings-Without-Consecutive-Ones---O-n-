@@ -36,3 +36,6 @@ Compute dp[i] by adding up dp[i - 1] and dp[i - 2]
  
  Step # 5 / 5
 Finally, return dp[n]
+
+
+Time Complexity: O(n)
